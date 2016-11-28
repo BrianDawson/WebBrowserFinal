@@ -1,0 +1,11 @@
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Release\BrianWebBrowser.exe.config
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Release\BrianWebBrowser.exe
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Release\BrianWebBrowser.pdb
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Release\BrianWebBrowser.xml
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Release\BrianWebBrowser.frmBrowser.resources
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Release\BrianWebBrowser.frmFavorites.resources
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Release\BrianWebBrowser.Resources.resources
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Release\DawsonBrowser.vbproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Release\BrianWebBrowser.exe
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Release\BrianWebBrowser.xml
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Release\BrianWebBrowser.pdb

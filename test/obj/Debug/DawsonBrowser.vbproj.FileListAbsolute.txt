@@ -1,0 +1,11 @@
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Debug\BrianWebBrowser.exe.config
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Debug\BrianWebBrowser.Resources.resources
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Debug\DawsonBrowser.vbproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Debug\BrianWebBrowser.exe
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Debug\BrianWebBrowser.pdb
+C:\Users\Brian\Desktop\BrianWebBrowser\test\bin\Debug\BrianWebBrowser.xml
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Debug\BrianWebBrowser.exe
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Debug\BrianWebBrowser.xml
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Debug\BrianWebBrowser.pdb
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Debug\BrianWebBrowser.frmBrowser.resources
+C:\Users\Brian\Desktop\BrianWebBrowser\test\obj\Debug\BrianWebBrowser.frmFavorites.resources
